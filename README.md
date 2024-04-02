@@ -1,10 +1,13 @@
 # snake_game
 
 This is snake game using Turtle module 
-**Features**
+#**Features**
 Creating Snake Body: The snake body is represented by a series of segments.
+
 Moving the Snake: The snake moves continuously in the game area.
+
 Controlling the Snake: Players can control the snake's direction using arrow keys.
+
 Detecting Collision with Food: When the snake's head collides with food, it grows longer.
 Creating a Scoreboard: Tracks the player's score as they eat food.
 Detecting Collision with Walls: If the snake hits the wall, the game resets.
