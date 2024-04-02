@@ -19,7 +19,12 @@ Detecting Collision with Walls: If the snake hits the wall, the game resets.
 
 Detecting Collision with Itself: If the snake collides with its own body, the game resets.
 
+
+
+
 **How to Play**
+
+
 *Use the arrow keys to control the direction of the snake. 
 *Eat the food to grow longer and increase your score.
 *Avoid hitting the walls or the snake's own body.
