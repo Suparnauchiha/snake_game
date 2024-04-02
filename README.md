@@ -33,17 +33,12 @@ Detecting Collision with Itself: If the snake collides with its own body, the ga
 **Implementation Details**
 This game is implemented using the following components:
 
-Snake Class: Manages the snake's movement and growth.
+_Snake Class_: Manages the snake's movement and growth.
 
-Food Class: Handles the position and appearance of the food.
+_Food Class_: Handles the position and appearance of the food.
 
-Scoreboard Class: Keeps track of the player's score and displays it on the screen.
+_Scoreboard Class:_ Keeps track of the player's score and displays it on the screen.
 
-Installation and Running the Game
-
-Make sure you have Python installed on your system.
-
-Clone this repository to your local machine.
 
 Ensure you have the required dependencies (turtle) installed.
 Run the snake_game.py file using Python.
